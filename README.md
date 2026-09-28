@@ -152,13 +152,12 @@ Created an interactive dashboard containing:
 
 The analysis was used to identify:
 
-* Top-performing vehicle brands and models.
-* High-performing vehicle segments.
-* States and dealers generating higher sales.
-* Monthly sales trends and changes in performance.
-* Differences between Selling Price and MMR Value.
-* Discount patterns across vehicles and categories.
-* Sales distribution across fuel types and transmission types.
+* Analyzed 8,000 vehicle sales transactions generating approximately ₹8.01 billion in total sales, with an average selling price of approximately ₹1.00 million.
+* Hyundai recorded the highest sales among the brands, while SUVs were the highest-performing vehicle segment.
+* Petrol vehicles accounted for 68.2% of total vehicles sold, followed by Diesel at 23.5% and Hybrid at 8.3%.
+* Delhi recorded the highest state-level sales with 826 vehicles, while Dealer D029 was the top-performing dealer with 241 vehicles sold.
+* The average discount across vehicle sales was approximately 8.04%, providing insights into pricing and discount patterns.
+* Monthly sales remained relatively consistent throughout the year, with fluctuations across individual months.
 
 ---
 
@@ -166,12 +165,13 @@ The analysis was used to identify:
 
 The dashboard provides a centralized view of vehicle sales performance and can support:
 
-* Pricing decisions
-* Discount optimization
-* Inventory planning
-* Dealer performance analysis
-* Identification of high-performing vehicle categories
-* Sales trend monitoring
+* Pricing and discount analysis
+* Inventory planning based on brand, segment, and fuel-type demand
+* Dealer performance monitoring
+* State-level sales analysis
+* Identification of high-performing brands and vehicle segments
+* Monitoring of monthly sales trends
+* Data-driven sales and business planning
 
 ---
 
